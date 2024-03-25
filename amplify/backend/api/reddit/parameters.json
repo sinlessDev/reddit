@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "reddit",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
